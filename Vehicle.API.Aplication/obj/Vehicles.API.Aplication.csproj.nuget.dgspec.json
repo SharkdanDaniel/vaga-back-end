@@ -1,41 +1,41 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Aplication\\Vehicles.API.Aplication.csproj": {}
+    "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Aplication\\Vehicles.API.Aplication.csproj": {}
   },
   "projects": {
-    "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Aplication\\Vehicles.API.Aplication.csproj": {
+    "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Aplication\\Vehicles.API.Aplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Aplication\\Vehicles.API.Aplication.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Aplication\\Vehicles.API.Aplication.csproj",
         "projectName": "Vehicles.API.Aplication",
-        "projectPath": "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Aplication\\Vehicles.API.Aplication.csproj",
+        "projectPath": "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Aplication\\Vehicles.API.Aplication.csproj",
         "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Aplication\\obj\\",
+        "outputPath": "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Aplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Data\\Vehicles.API.Data.csproj": {
-                "projectPath": "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Data\\Vehicles.API.Data.csproj"
+              "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Data\\Vehicles.API.Data.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Data\\Vehicles.API.Data.csproj"
               },
-              "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Domain\\Vehicles.API.Domain.csproj": {
-                "projectPath": "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Domain\\Vehicles.API.Domain.csproj"
+              "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Domain\\Vehicles.API.Domain.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Domain\\Vehicles.API.Domain.csproj"
               },
-              "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Service\\Vehicles.API.Service.csproj": {
-                "projectPath": "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Service\\Vehicles.API.Service.csproj"
+              "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Service\\Vehicles.API.Service.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Service\\Vehicles.API.Service.csproj"
               }
             }
           }
@@ -47,22 +47,22 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[5.0.7, )"
+              "version": "[6.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.6, )"
+              "version": "[6.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[5.6.3, )"
+              "version": "[6.2.3, )"
             }
           },
           "imports": [
@@ -83,36 +83,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Data\\Vehicles.API.Data.csproj": {
+    "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Data\\Vehicles.API.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Data\\Vehicles.API.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Data\\Vehicles.API.Data.csproj",
         "projectName": "Vehicles.API.Data",
-        "projectPath": "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Data\\Vehicles.API.Data.csproj",
+        "projectPath": "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Data\\Vehicles.API.Data.csproj",
         "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Data\\obj\\",
+        "outputPath": "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Domain\\Vehicles.API.Domain.csproj": {
-                "projectPath": "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Domain\\Vehicles.API.Domain.csproj"
+              "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Domain\\Vehicles.API.Domain.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Domain\\Vehicles.API.Domain.csproj"
               }
             }
           }
@@ -124,8 +124,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -137,31 +137,31 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.6, )"
+              "version": "[6.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Abstractions": {
               "target": "Package",
-              "version": "[5.0.6, )"
+              "version": "[6.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Analyzers": {
               "target": "Package",
-              "version": "[5.0.6, )"
+              "version": "[6.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.6, )"
+              "version": "[6.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.6, )"
+              "version": "[6.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.6, )"
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
@@ -179,33 +179,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Domain\\Vehicles.API.Domain.csproj": {
+    "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Domain\\Vehicles.API.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Domain\\Vehicles.API.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Domain\\Vehicles.API.Domain.csproj",
         "projectName": "Vehicles.API.Domain",
-        "projectPath": "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Domain\\Vehicles.API.Domain.csproj",
+        "projectPath": "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Domain\\Vehicles.API.Domain.csproj",
         "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -216,12 +216,12 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
-              "version": "[6.11.1, )"
+              "version": "[6.15.0, )"
             }
           },
           "imports": [
@@ -239,39 +239,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Service\\Vehicles.API.Service.csproj": {
+    "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Service\\Vehicles.API.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Service\\Vehicles.API.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Service\\Vehicles.API.Service.csproj",
         "projectName": "Vehicles.API.Service",
-        "projectPath": "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Service\\Vehicles.API.Service.csproj",
+        "projectPath": "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Service\\Vehicles.API.Service.csproj",
         "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Service\\obj\\",
+        "outputPath": "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Data\\Vehicles.API.Data.csproj": {
-                "projectPath": "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Data\\Vehicles.API.Data.csproj"
+              "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Data\\Vehicles.API.Data.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Data\\Vehicles.API.Data.csproj"
               },
-              "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Domain\\Vehicles.API.Domain.csproj": {
-                "projectPath": "E:\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Domain\\Vehicles.API.Domain.csproj"
+              "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Domain\\Vehicles.API.Domain.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Develop\\dotNet\\vaga-back-end\\Vehicle.API.Domain\\Vehicles.API.Domain.csproj"
               }
             }
           }
@@ -283,12 +283,16 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
               "version": "[10.1.1, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
             }
           },
           "imports": [
@@ -306,7 +310,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

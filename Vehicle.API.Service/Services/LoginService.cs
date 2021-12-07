@@ -57,8 +57,9 @@ namespace Vehicles.API.Service.Services
                         new GenericIdentity(baseUser.Email),
                         new[]
                         {
+                            new Claim(JwtRegisteredClaimNames.Sub, baseUser.Id.ToString()),
                             new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
-                            new Claim(JwtRegisteredClaimNames.UniqueName, user.Email),
+                            new Claim(JwtRegisteredClaimNames.UniqueName, baseUser.Email),
                         }
                     );
 

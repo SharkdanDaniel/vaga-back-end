@@ -6,7 +6,6 @@ E:\Develop\dotNet\vaga-back-end\Vehicle.API.Data\bin\Debug\net5.0\ref\Vehicles.A
 E:\Develop\dotNet\vaga-back-end\Vehicle.API.Data\bin\Debug\net5.0\Vehicles.API.Data.pdb
 E:\Develop\dotNet\vaga-back-end\Vehicle.API.Data\bin\Debug\net5.0\Vehicles.API.Domain.dll
 E:\Develop\dotNet\vaga-back-end\Vehicle.API.Data\bin\Debug\net5.0\Vehicles.API.Domain.pdb
-E:\Develop\dotNet\vaga-back-end\Vehicle.API.Data\obj\Debug\net5.0\Vehicles.API.Data.csproj.AssemblyReference.cache
 E:\Develop\dotNet\vaga-back-end\Vehicle.API.Data\obj\Debug\net5.0\Vehicles.API.Data.GeneratedMSBuildEditorConfig.editorconfig
 E:\Develop\dotNet\vaga-back-end\Vehicle.API.Data\obj\Debug\net5.0\Vehicles.API.Data.AssemblyInfoInputs.cache
 E:\Develop\dotNet\vaga-back-end\Vehicle.API.Data\obj\Debug\net5.0\Vehicles.API.Data.AssemblyInfo.cs

@@ -1,0 +1,17 @@
+C:\Users\Daniel\Develop\dotNet\vaga-back-end\Vehicle.API.Data\bin\Debug\net6.0\Vehicles.API.Data.deps.json
+C:\Users\Daniel\Develop\dotNet\vaga-back-end\Vehicle.API.Data\bin\Debug\net6.0\Vehicles.API.Data.runtimeconfig.json
+C:\Users\Daniel\Develop\dotNet\vaga-back-end\Vehicle.API.Data\bin\Debug\net6.0\Vehicles.API.Data.dll
+C:\Users\Daniel\Develop\dotNet\vaga-back-end\Vehicle.API.Data\bin\Debug\net6.0\ref\Vehicles.API.Data.dll
+C:\Users\Daniel\Develop\dotNet\vaga-back-end\Vehicle.API.Data\bin\Debug\net6.0\Vehicles.API.Data.pdb
+C:\Users\Daniel\Develop\dotNet\vaga-back-end\Vehicle.API.Data\bin\Debug\net6.0\Vehicles.API.Domain.dll
+C:\Users\Daniel\Develop\dotNet\vaga-back-end\Vehicle.API.Data\bin\Debug\net6.0\Vehicles.API.Domain.pdb
+C:\Users\Daniel\Develop\dotNet\vaga-back-end\Vehicle.API.Data\obj\Debug\net6.0\Vehicles.API.Data.csproj.AssemblyReference.cache
+C:\Users\Daniel\Develop\dotNet\vaga-back-end\Vehicle.API.Data\obj\Debug\net6.0\Vehicles.API.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Develop\dotNet\vaga-back-end\Vehicle.API.Data\obj\Debug\net6.0\Vehicles.API.Data.AssemblyInfoInputs.cache
+C:\Users\Daniel\Develop\dotNet\vaga-back-end\Vehicle.API.Data\obj\Debug\net6.0\Vehicles.API.Data.AssemblyInfo.cs
+C:\Users\Daniel\Develop\dotNet\vaga-back-end\Vehicle.API.Data\obj\Debug\net6.0\Vehicles.API.Data.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Develop\dotNet\vaga-back-end\Vehicle.API.Data\obj\Debug\net6.0\Vehicles.API.Data.csproj.CopyComplete
+C:\Users\Daniel\Develop\dotNet\vaga-back-end\Vehicle.API.Data\obj\Debug\net6.0\Vehicles.API.Data.dll
+C:\Users\Daniel\Develop\dotNet\vaga-back-end\Vehicle.API.Data\obj\Debug\net6.0\ref\Vehicles.API.Data.dll
+C:\Users\Daniel\Develop\dotNet\vaga-back-end\Vehicle.API.Data\obj\Debug\net6.0\Vehicles.API.Data.pdb
+C:\Users\Daniel\Develop\dotNet\vaga-back-end\Vehicle.API.Data\obj\Debug\net6.0\Vehicles.API.Data.genruntimeconfig.cache

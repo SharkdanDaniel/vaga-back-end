@@ -12,7 +12,7 @@ namespace Vehicles.API.Domain.Interfaces.Services.User
         Task<UserDto> Get(Guid id);
         Task<IEnumerable<UserDto>> GetAll();
         Task<UserDto> Post(UserDtoCreate owner);
-        Task<UserDto> Put(UserDto owner);
+        Task<UserDto> Put(UserDtoUpdate owner);
         Task<bool> Delete(Guid id);
     }
 }

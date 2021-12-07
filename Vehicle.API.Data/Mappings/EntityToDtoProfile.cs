@@ -26,6 +26,7 @@ namespace Vehicles.API.Data.Mappings
 
             CreateMap<User, UserDto>().ReverseMap();
             CreateMap<User, UserDtoCreate>().ReverseMap();
+            CreateMap<User, UserDtoUpdate>().ReverseMap();
         }
     }
 }

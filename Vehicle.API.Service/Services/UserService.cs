@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,11 +16,13 @@ namespace Vehicles.API.Service.Services
     {
         private IRepository<User> _respository;
         private readonly IMapper _mapper;
+        private readonly IHttpContextAccessor _accessor;
 
-        public UserService(IRepository<User> respository, IMapper mapper)
+        public UserService(IRepository<User> respository, IMapper mapper, IHttpContextAccessor accessor)
         {
             this._respository = respository;
             this._mapper = mapper;
+            this._accessor = accessor;
         }
 
         public async Task<UserDto> Get(Guid id)
@@ -44,7 +47,7 @@ namespace Vehicles.API.Service.Services
             return _mapper.Map<UserDto>(result);
         }
 
-        public async Task<UserDto> Put(UserDto user)
+        public async Task<UserDto> Put(UserDtoUpdate user)
         {
             var entity = _mapper.Map<User>(user);
             var result = await _respository.UpdateAsync(entity);
@@ -54,6 +57,7 @@ namespace Vehicles.API.Service.Services
 
         public async Task<bool> Delete(Guid id)
         {
+            var userEmail = this._accessor.HttpContext.User.Claims.FirstOrDefault(x => x.Type.Equals("unique_name", StringComparison.InvariantCultureIgnoreCase));
             return await _respository.DeleteAsync(id);
         }
     }
